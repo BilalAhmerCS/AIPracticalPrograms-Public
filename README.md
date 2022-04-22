@@ -25,11 +25,9 @@ Artificial Intelligence Practicals [![GitHub license](https://img.shields.io/git
 
 # Developed by
 
-### [Tushar Parmar](https://github.com/viztushar/)
+### [Bilal Ahmer]
 
-[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/viztushar/)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/viztushar.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https://twitter.com/viztushar)
-[![Google+](https://img.shields.io/badge/Follow-Google%2B-ea4335.svg)](https://plus.google.com/+viztushar)
+
 
 License
 =======
